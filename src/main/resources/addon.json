@@ -1,7 +1,6 @@
 {
-  "name":"Addon Example",
-  "version":"1.0",
-  "mainClass":"com.example.AddonExample",
-  "desc":"Hyperium Addon Example",
-  "overlay":"com.example.overlay.OverlayExample"
+  "name":"SkyblockAddon Rewritten",
+  "version":"1.0.0",
+  "mainClass":"me.shardcoder.addon.SkyblockAddon",
+  "desc":"Hyperium Addon Example"
 }
